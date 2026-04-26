@@ -25,13 +25,15 @@ Lesson3: Unsupervised Learning\
 Format: Makecode (block)\
 This module uses the example of a step-counter, instructing students in analyzing unstructured micro:bit IMU data to distinguish 'steps' from 'non-steps'.  
 Demo: [https://makecode.microbit.org/S38129-11744-88445-38193](https://makecode.microbit.org/S38129-11744-88445-38193) \
-Repo: [https://github.com/kkrave/threshold-step-counter-](https://github.com/kkrave/threshold-step-counter-)
+Repo: [https://github.com/kkrave/threshold-step-counter-](https://github.com/kkrave/threshold-step-counter-) \
+K-Means Cluster Demonstration Tool: [https://docs.google.com/spreadsheets/d/1LvstPb7giw7qeGbXmg1lF7m-bhReY3NsYm0Rz_nU6ao/view?gid=1728197631#gid=1728197631](https://docs.google.com/spreadsheets/d/1LvstPb7giw7qeGbXmg1lF7m-bhReY3NsYm0Rz_nU6ao/view?gid=1728197631#gid=1728197631)
 
 Lesson4: Supervised Learning\
 Format: Makecode (block)\
 This module uses micro:bit create ai platform to instruct students how to collect labeled data using their micro:bit and train their own machine learning model with their own data and then use that model in their own applications. 
 Demo:  [https://createai.microbit.org/](https://createai.microbit.org/) \
-Repo: n/a
+Repo: n/a \
+Supervised Learning Demonstration Tool:[https://docs.google.com/spreadsheets/d/1UG3cBcHctRUuzqeF6gT2JfRny2gGkLPAgUMbE3Ifzi4/edit?gid=1681013253#gid=1681013253](https://docs.google.com/spreadsheets/d/1UG3cBcHctRUuzqeF6gT2JfRny2gGkLPAgUMbE3Ifzi4/edit?gid=1681013253#gid=1681013253)
 
 Lesson5: Reinforcement Learning\
 Format: Makecode (MicroPython)\
